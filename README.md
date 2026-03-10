@@ -1,12 +1,10 @@
 <br clear="both">
 
-<img align="right" height="360" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2Uwa3p5cGtsOXg0NG10OGhobDk2aHd4NTJtNndtNHY5cnE1MXg2YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tw24LnY3LZL3gM62TU/giphy.gif"  />
+<img align="right" height="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2Uwa3p5cGtsOXg0NG10OGhobDk2aHd4NTJtNndtNHY5cnE1MXg2YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tw24LnY3LZL3gM62TU/giphy.gif"  />
 
 ###
 
-
-###
-
+ **OLÁ 👋**
 <br clear="both">
 
 <div align="right">
